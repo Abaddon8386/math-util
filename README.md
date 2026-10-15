@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2026 by Abaddon](https://github.com/Abaddon8386/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/Abaddon8386/math-util/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility
 
 ### You will find in this repo the following stuff:
@@ -45,5 +47,6 @@ mvn test
 **Abaddon8386**
 
 GitHub: https://github.com/Abaddon8386
+Email: bevatysun12@gmail.com
 
 © 2026 - Abaddon8386    

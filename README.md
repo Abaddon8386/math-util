@@ -38,8 +38,7 @@ mvn test
 ```
 
 ### Screen-shots
-
-Screenshots demonstrating JUnit testing, TDD and DDT will be added here.
+![JUnit with TDD and DDT](screen-shots/DDT-with-JUnit.png)
 
 ### Author
 
